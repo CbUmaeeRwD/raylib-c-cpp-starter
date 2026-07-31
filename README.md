@@ -11,10 +11,10 @@ project-root/
 │   ├── raylib.dll
 │   └── raylib.h
 ├── src/                     # additional .cpp files go here (everything except main.cpp)
-├── assets/
-│   ├── graphics/            # sprites, textures, tilesets — .png, .jpg
-│   ├── sounds/              # sfx and music — .wav, .mp3, .ogg
-│   └── fonts/               # .ttf, .otf
+└── assets/
+    ├── graphics/            # sprites, textures, tilesets — .png, .jpg
+    ├── sounds/              # sfx and music — .wav, .mp3, .ogg
+    └── fonts/               # .ttf, .otf
 ```
 
 ## Adding source files
