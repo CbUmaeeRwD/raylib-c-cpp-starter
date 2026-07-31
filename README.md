@@ -15,7 +15,6 @@ project-root/
 │   ├── graphics/            # sprites, textures, tilesets — .png, .jpg
 │   ├── sounds/              # sfx and music — .wav, .mp3, .ogg
 │   └── fonts/               # .ttf, .otf
-└── Makefile
 ```
 
 ## Adding source files
