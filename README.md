@@ -4,8 +4,8 @@
 
 ```
 project-root/
-├── main.cpp                # entry point
-├── headers/                # all your .h files go here
+├── main.cpp                 # entry point
+├── headers/                 # all your .h files go here
 ├── raylib/                  # raylib library (headers, static lib, dll) — don't touch
 │   ├── libraylib.a
 │   ├── raylib.dll
